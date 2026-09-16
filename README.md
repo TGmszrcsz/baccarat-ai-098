@@ -6,6 +6,12 @@
 
 整理日期：2026-09-17　｜　专题方向：复查实践
 
+<!-- article-chain:start -->
+
+> 系列导航：[全部文章目录](https://github.com/TGmszrcsz/baccarat-ai-index) ｜ [上一篇：第 097 篇 - 百家乐Ai预测分析工具：比较两次导出时怎样区分新增与修订](https://github.com/TGmszrcsz/baccarat-ai-097) ｜ [下一篇：第 099 篇 - 百家乐Ai预测分析工具：写阶段报告时分清事实与解释](https://github.com/TGmszrcsz/baccarat-ai-099)
+
+<!-- article-chain:end -->
+
 熟悉系统的人离开后，别人无法理解历史处理方式。本篇围绕“交接给另一位检查者时准备哪些材料”展开，结合现有界面示例，说明判断依据、核对顺序和需要保留的记录。
 
 ## 一、本篇解决的阅读问题
